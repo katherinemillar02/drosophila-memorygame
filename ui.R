@@ -1,7 +1,7 @@
 
 #  ------------------------------------------------------------------------
 #
-# Title : Memory Hex - UI
+# Title : Memory Drosophila - UI
 #    By : dreamRs
 #  Date : 2019-02-06
 #    
