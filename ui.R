@@ -19,8 +19,8 @@ fluidPage(
   
   tags$div(
     class = "title-app",
-    tags$h1("Drosophila memory game"),
-    tags$h4("Find matching hex!")
+    tags$h1("Drosophila memory game!! 🪰"),
+    tags$h4("Find the matching drosophilic stuff!")
   ),
   tags$br(),
   
