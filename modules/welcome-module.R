@@ -12,10 +12,10 @@ welcome_UI <- function(id) {
     ),
     tags$div(
       style = "text-align: center;",
-      tags$p("Find all matching Hex as soon as possible!"),
-      tags$p("Click on an hex to return it"),
-      tags$p("You can see only two hex at the same time"),
-      tags$p("When you're ready, click button below to play !")
+      tags$p("Match the drosophila thing!! to another drosophila thing!! 🪰"),
+      tags$p("To go back on your drosophil decision (lol) then just click again!!"),
+      tags$p("You can see only two drosophilia things at the same time"),
+      tags$p("Are you ready to match all the drosophila?? Click play!!")
     ), 
     footer = actionButton(
       inputId = ns("play"),
