@@ -55,8 +55,8 @@ function(input, output, session) {
         ui = tags$div(
           style = "font-size: 160%; font-weight: bold;",
           sample(
-            x = c("Well done!", "Bravo!", "Great!", "Good job!", 
-                  "Amazing!", "That's a match!", "Hooray!"),
+            x = c("Well drosophilically done!!", "Drosophilic!!", "Very drosophila!!", "Wow, a drosophila!!", 
+                  "Awesomeness!", "That's a drosophilic match!", "Drosoooray!"),
             size = 1
           )
         ), type = "message"
