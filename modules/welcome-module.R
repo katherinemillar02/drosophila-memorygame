@@ -8,14 +8,14 @@ welcome_UI <- function(id) {
   modalDialog(
     title = tags$h1(
       style = "text-align: center;",
-      "Welcome to memory Hex game !"
+      "Welcome to the ultimate Drosophilic memory game!!"
     ),
     tags$div(
       style = "text-align: center;",
       tags$p("Match the drosophila thing!! to another drosophila thing!! 🪰"),
       tags$p("To go back on your drosophil decision (lol) then just click again!!"),
       tags$p("You can see only two drosophilia things at the same time"),
-      tags$p("Are you ready to match all the drosophila?? Click play!!")
+      tags$p("Are you ready to match all the drosophila?? Click play, if you dare!! (joke)")
     ), 
     footer = actionButton(
       inputId = ns("play"),
