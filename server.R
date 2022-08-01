@@ -84,21 +84,19 @@ function(input, output, session) {
           style = "text-align: center;",
           tags$h2(
             tags$span(icon("trophy"), style = "color: #F7E32F;"),
-            "Well done !",
+            "Wowee, that was drosophilic !",
             tags$span(icon("trophy"), style = "color: #F7E32F;")
           ),
-          tags$h4("You've found all matching hex in"),
+          tags$h4("You've found all matching drosophila stuff in"),
           tags$h1(isolate(timer()), "seconds!"),
           tags$br(), tags$br(),
           tags$a(
             href = glue(shareurl, time = isolate(timer())),
-            icon("twitter"), "Tweet your score !", 
+            icon("twitter"), "Tweet your drosophilic score !", 
             class = "btn btn-info btn-lg"
           ),
           tags$br(), tags$br(),
-          
-          tags$p("This app is our submission for the",
-                 tags$a(href = "https://community.rstudio.com/t/shiny-contest-submission-hex-memory-game/25336", "Shiny contest !")),
+
           
           tags$br(), tags$br(),
           actionButton(
