@@ -15,7 +15,7 @@ welcome_UI <- function(id) {
       tags$p("Match the drosophila thing..to another drosophila thing!!🪰"),
       tags$p("Think that you have matched the wrong drosophila thing to a drosophila thing? Just click the drosophila thing again!"),
       tags$p("You can see only two drosophilia things at the same time, do not try and be clever"),
-      tags$p("Are you ready to match all the drosophila?? Click play, if you dare!! (joke)")
+      tags$p("Are you ready to match all the drosophila?? Click play, if you dare!! (joke) 🤭😈")
     ), 
     footer = actionButton(
       inputId = ns("play"),
