@@ -34,6 +34,6 @@ source("functions/utils.R")
 
 n_hex <- 10
 
-shareurl <- "https://twitter.com/intent/tweet?text=I%20found%20all%20matching%20Hex%20in%20{time}%20seconds%20!%20And%20you%20?%20%23rstats%20%23shiny%20Play%20here:&url=https://dreamrs.shinyapps.io/memory-hex"
+shareurl <- "https://twitter.com/intent/tweet?text=I%20found%20all%20matching%20Drosophila%20in%20{time}%20seconds%20!%20And%20you%20?%20%23rstats%20%23shiny%20Play%20here:&url=https://katherinemillar02.shinyapps.io/drosophilamemgames-3ad465e06088b3206ff42502257c7b2422a1a75e/"
 
 
