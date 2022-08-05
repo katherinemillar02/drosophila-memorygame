@@ -1,4 +1,4 @@
-Stole this from ... 🤭
+Stole/borrowed/adapted this from ... 🤭
 
 # Hex Memory Game
 
